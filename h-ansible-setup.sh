@@ -1,6 +1,4 @@
-Here is the cleaned-up Markdown version, ready to save as something like `ansible-setup.md`.
 
-````md
 # Ansible Control Server and Worker Node Setup
 
 > **Important:** Ansible is normally installed only on the **control server**. You do not need to install Ansible on the worker nodes.
