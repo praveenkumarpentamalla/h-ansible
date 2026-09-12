@@ -1,4 +1,4 @@
-Yes. The most important concept first:
+
 
 **Ansible is normally installed only on the control server. You do not install Ansible on the worker nodes.**
 
@@ -547,4 +547,3 @@ bcg
 modi_ornaments
 ```
 
----
