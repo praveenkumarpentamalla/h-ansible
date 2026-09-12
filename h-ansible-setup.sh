@@ -785,4 +785,4 @@ all workers | SUCCESS | pong
 Once this works, the infrastructure is ready for centralized Ansible automation.
 
 ```
-```
+
